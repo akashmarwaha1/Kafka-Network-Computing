@@ -1,0 +1,10 @@
+Summons Number: bigint,
+ Plate ID: string,
+ Registration State: string, 
+Issue Date: timestamp-millis, 
+Violation Code: int, 
+Vehicle Body Type: string, 
+Vehicle Make: string, 
+Violation Precinct: int, 
+Issuer Precinct: int, 
+Violation Time: string
